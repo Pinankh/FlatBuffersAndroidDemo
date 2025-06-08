@@ -1,0 +1,3 @@
+dependencies {
+    implementation 'com.google.flatbuffers:flatbuffers-java:2.0.0'
+}

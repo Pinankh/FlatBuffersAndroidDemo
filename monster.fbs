@@ -1,0 +1,8 @@
+namespace com.example.flatdemo;
+
+table Monster {
+  name:string;
+  hp:int;
+  color:string;
+}
+root_type Monster;
